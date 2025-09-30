@@ -12,6 +12,7 @@ categories:
 ---
 
 :::{.callout-note}
+## Proposed revision
 
 The name of this ecosystem functional group in version 2.1 of the Global Ecosystem Typology is *Annual croplands*. However, from an ecosystem functioning perspective perennial herbaceous croplands share characteristics with annual croplands and fit best in this ecosystem functional group. We thus note the potential alternative name Herbaceous croplands, reflecting an expansion in scope to include both annual and perennial herbaceous crops.
 
@@ -23,7 +24,7 @@ The name of this ecosystem functional group in version 2.1 of the Global Ecosyst
 
 ***Current status***: Proposal considered by GET-SC on 8/9/2025 and approved  for public consultation on draft update
 
-See new profile text below, compare to current text at [global-ecosystems.org (opens in new tab)](https://global-ecosystems.org/explore/groups/T7.1){target=blank}
+See new profile text below with [changes highlighted]{.mark}, compare to current text at [global-ecosystems.org (opens in new tab)](https://global-ecosystems.org/explore/groups/T7.1){target=blank}
 
 ::: 
 

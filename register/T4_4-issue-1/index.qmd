@@ -1,0 +1,28 @@
+---
+title: "Describe T5.6 Semi-arid woodlands"
+date: last-modified
+Type: "New EFG"
+Nomination: 23 Jun 2025
+Decision: 8 Sep 2025
+Implementation: draft in preparation
+categories: 
+    - T4.4
+    - T5.6
+    - New EFG
+    - Draft in preparation
+---
+
+
+:::{.callout-note}
+## Proposed revision
+
+***Revision summary***: Describe T5.6 Semi-arid woodlands	
+
+***Origin***: Australian NEAP project.
+
+***Justification***: Revision resolves conflated variation along two independent environmentl gradient within the current formulation of T4.4: aridity and temperature related to
+
+***Current status***: Proposal considered by GET-SC on 8 Sep 2025, drafft update in preparation.
+
+::: 
+
