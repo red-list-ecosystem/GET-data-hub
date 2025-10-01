@@ -1,0 +1,1 @@
+Sitemap: https://red-list-ecosystem.github.io/GET-data-hub/sitemap.xml

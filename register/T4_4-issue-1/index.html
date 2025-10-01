@@ -129,6 +129,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References:</a></li>
   </ul></li>
+  <li><a href="#public-consultation" id="toc-public-consultation" class="nav-link" data-scroll-target="#public-consultation">Public consultation</a></li>
   </ul>
 </nav>
     </div>
@@ -210,9 +211,14 @@ Proposed revision
 <p>Davis FW, Baldocchi DD, Tyler CM (2019) Oak woodlands. <em>Ecosystems of California</em> (Eds. HA Mooney, E Zavaleta). Chapter 25 pp 509-534. University of California Press, Berkeley.</p>
 <p>Gibson GJ (2009) <em>Grasses and grassland ecology</em> Oxford University Press, Oxford.</p>
 <p>Prober SM, Gosper CR, Gilfedder L, Harwood TD, Thiele KR, Williams KJ, Yates CJ (2017) Temperate eucalypt woodlands. <em>Australian vegetation</em> (Ed. DA Keith), pp 410-437. Cambridge University Press, Cambridge</p>
-
-
 </section>
+</section>
+<section id="public-consultation" class="level2">
+<h2 class="anchored" data-anchor-id="public-consultation">Public consultation</h2>
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=pM_2PxXn20i44Qhnufn7o5MI4sLPZtBBnmqBEb5y9ApUM1hURU4zTldFOUJWOFpPUlhZSUFLMTkyMC4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen="">
+</iframe>
+
+
 </section>
 
 </main> <!-- /main -->
@@ -306,7 +312,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/red-list-ecosystem\.github\.io\/GET-data-hub\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
