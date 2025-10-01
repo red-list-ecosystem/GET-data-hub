@@ -1,0 +1,82 @@
+---
+title: "Process for proposing and review of adjustments to the IUCN Global Ecosystem Typology"
+---
+
+## Overview of the nomination process
+
+### Issue identification
+
+Users need to check the public register of proposed adjustments and outcomes prior to preparing and lodging proposals. This is done to limit multiple proposals for the same adjustment. 
+
+### Preparation and submission
+
+Each submission needs to describe in detail the problem with the current GET content and how it is best to be resolved, with justification for the proposed adjustment, noting strong justification is required. 
+
+User need to use a template for formalising a proposal for adjustment. Please follow this link to [fill a form for nomination](nomination-form.qmd) or download a template that can be filled off-line.
+
+### Collation of submissions
+
+Submissions from the form or template as well as other sources (feedback from the GET website’s feedback form, at GET workshops, and via correspondence with GET authors and IUCN staff) will be collated by the GET-SC secretariat. 
+
+### Consideration of adjustments
+
+Following submission of updates for consideration, review will be undertaken by the GET-SC. Proposals with insufficient justification will not be considered further and nominators will be notified. 
+
+The Committee’s review may be informed by consultations with subject matter experts where needed and may involve seeking additional information from the nominator.
+
+```{mermaid}
+%%| fig-cap: Overview of the steps of the nomination process
+sequenceDiagram
+    participant reg as Register
+    participant nom as Nominator
+    participant sc as Scientific Committee
+    participant ext as Topic specialists
+
+
+    Note over nom,reg: Issue identification
+    nom-->>reg: Addressed previously?
+    Note over nom,sc: Proposal of adjustment
+    nom->>+sc: Submit proposal
+    sc-->>nom: Further advice & revision
+    nom-->>sc: Submit ammended proposal
+    sc->>ext: External consultation
+    sc->>-sc: Internal<br>consultation
+```
+
+
+
+## Adjustment implementation and feedback
+
+### Communication of decision
+
+Once adjustments have been recommended by the GET-SC, they will:
+
+- send notification to GET data hub to update the register, the register will reflect decision and status of the issue,
+- send materials to the GET data hub for implementation as updates to the GET website and geospatial archive,
+- and send recommendation outcomes to the person or organisation who proposed the adjustment. 
+
+### Implementation
+
+Accepted adjustments will be implemented by drafting, revising and reviewing maps, text, schematics and EFG structure as required. 
+
+GET-SC and GET data hub will coordinate to prepare changes in names and content.
+
+The GET data hub will liaise with Global Ecosystem Atlas in matters related to maps.
+
+### Propagation of changes
+
+The GET data hub will propagate changes to different digital assets, ensuring consistency in content and documented log of changes.
+
+All content changes will be submitted to an internal database with explicit documentation of version. The changes will be propagated 
+
+### Language translations
+
+
+### Publication of changes
+
+Adjustments will be implemented in successive updates to the GET website, and documented in a log for inclusion in future published versions of the GET, and their translations to other languages, ensuring that explicit version control is applied.
+
+
+```{mermaid}
+%%|file: submission-implementation-process.mmd
+```
