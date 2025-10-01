@@ -2,7 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/register/T4_4-issue-2/index.html",
       "/register/F3_3_issue-1/index.html",
+      "/register/T4_4-issue-1/index.html",
       "/register/T7_1_issue-1/index.html",
       "/register/T7_2_issue-1/index.html",
       "/register/T7_3_issue-1/index.html"
@@ -14,7 +16,9 @@
       "/register/T7_1_issue-1/index.html",
       "/register/T7_3_issue-1/index.html",
       "/register/F3_3_issue-1/index.html",
-      "/register/T7_2_issue-1/index.html"
+      "/register/T4_4-issue-1/index.html",
+      "/register/T7_2_issue-1/index.html",
+      "/register/T4_4-issue-2/index.html"
     ]
   }
 ]
