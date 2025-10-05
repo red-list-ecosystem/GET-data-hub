@@ -2,7 +2,7 @@
 title: "Rename T4.4 Subhumid temperate woodlands"
 date: last-modified
 Type: "New EFG"
-Nomination: 23 Jun 2025
+Nomination: 24 Jun 2025
 Decision: 8 Sep 2025
 Implementation: public consultation
 categories: 
